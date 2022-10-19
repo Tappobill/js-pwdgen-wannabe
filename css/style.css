@@ -1,21 +1,21 @@
-*{
+* {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
-body{
+body {
     background-image: url(../img/Bianconero1.webp);
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
 }
 
-#password{
-    height: 100vh;    
+#password {
+    height: 100vh;
     text-align: center;
     display: flex;
     align-items: center;
     justify-content: center;
-    font-size: 5rem;    
+    font-size: 5rem;
 }
